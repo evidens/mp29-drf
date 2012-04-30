@@ -2,8 +2,9 @@ html { background-color: #9EAAAA; }
 body { background-color: white; }
 /* A section is a slide. It's size is 800x600, and this will never change */
 section {
-    font-family: "Open Sans", Arial, serif;
+    font-family: Gibson, "Open Sans", Arial, serif;
     font-size: 20pt;
+    font-weight: 100;
   }
 address, blockquote, dl, fieldset, form, h1, h2, h3, h4, h5, h6, hr, ol, p, pre, table, ul, dl { padding: 10px 20px 10px 20px; }
 h1, h2, h3 {
@@ -36,6 +37,14 @@ footer {
   text-align: right;
   background-color: #F3F4F8;
   border-top: 1px solid #CCC;
+}
+th, b, strong { font-weight: 500; }
+a, a:visited {
+    text-decoration: none;
+    color: #08c;
+}
+a:hover, a:active {
+    color: #005580;
 }
 
 /* Transition effect */
