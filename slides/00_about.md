@@ -1,5 +1,5 @@
 
-# Quick, Powerful ReST with Django
+# Quick, Powerful REST with Django
 
 Presented by F. Gabriel Gosselin
 
