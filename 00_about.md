@@ -6,9 +6,9 @@
 * Communications Manager
 
 ### Where to find me
-* [@fggosselin](http://twitter.com/#!/fggosselin "Follow fggosselin on Twitter")
-* <https://github.com/beyondwords>
-* <https://bitbucket.org/beyondwords>
+* Twitter [@fggosselin](http://twitter.com/#!/fggosselin "Follow fggosselin on Twitter")
+* Github [beyondwords](https://github.com/beyondwords)
+* Bitbucket [beyondwords](https://bitbucket.org/beyondwords)
 
 
 
