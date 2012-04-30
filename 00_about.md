@@ -1,4 +1,8 @@
 
+# Quick, Powerful ReST with Django
+
+Presented by F. Gabriel Gosselin
+
 # Whois
 
 * Using Python for ~1 year
