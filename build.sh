@@ -1,8 +1,11 @@
 #!/bin/zsh
 
-pandoc -s -i \
-    -t dzslides \
-    -o presentation.html \
+pandoc --standalone \
+    --smart \
+    --write=dzslides \
+    --output=presentation.html \
+    --template=template.html \
+    --css=style.css \
     00_about.md \
     01_rest.md \
     02_whyDRF.md \
