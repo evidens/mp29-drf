@@ -20,6 +20,7 @@ h1 { font-size: 180%; }
 h2 { font-size: 120%; }
 h3 { font-size: 100%; }
 q { quotes: "“" "”" "‘" "’"; }
+code, pre { font-size: 18px;}
 blockquote { font-style: italic }
 /* Figures are displayed full-page, with the caption on
    top of the image/video */
