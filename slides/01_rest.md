@@ -39,4 +39,7 @@ HTTP methods correspond to typical operations
 # What is REST - Read more 
 * Proposed in Roy Thomas Fielding's Thesis [Architectural Styles and
 the Design of Network-based Software Architectures](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+
 * [A Brief Introduction to REST](http://www.infoq.com/articles/rest-introduction)
+
+* [RESTify DayTrader](http://bitworking.org/news/201/RESTify-DayTrader)
