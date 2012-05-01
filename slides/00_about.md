@@ -1,7 +1,7 @@
 
 # Quick, Powerful REST with Django
 
-Presented by F. Gabriel Gosselin
+<p style="margin-top: 250px; text-align: center;">Presented by F. Gabriel Gosselin</p>
 
 # Whois
 
